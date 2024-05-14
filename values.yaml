@@ -28,7 +28,7 @@ service:
 
 ingress:
   enabled: true  # Ensure ingress is enabled
-  className: ""
+  className: "nginx"
   annotations:
     nginx-trial: "true"  # Add nginx-trial annotation
   hosts:
