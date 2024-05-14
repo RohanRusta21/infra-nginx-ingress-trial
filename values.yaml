@@ -30,7 +30,7 @@ ingress:
   enabled: true  # Ensure ingress is enabled
   className: "nginx"
   annotations:
-    nginx-trial: "true"  # Add nginx-trial annotation
+    nginx-trial: "true"  # Added nginx-trial annotation as defined in task requirement
   hosts:
     - host: payever.task.com
       paths:
