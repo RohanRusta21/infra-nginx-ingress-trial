@@ -10,6 +10,8 @@ Requirements *
 2. The nginx-ingress will only search for specific ingresses with annotation nginx-trial, not all existent ingresses
 
 
+# Also uploaded the chart in github. Url to access it : https://github.com/RohanRusta21/infra-nginx-ingress-trial
+
 ## Commands used throuhout deployment
 
 ```bash
