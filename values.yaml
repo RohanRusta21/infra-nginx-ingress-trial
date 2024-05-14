@@ -32,7 +32,7 @@ ingress:
   annotations:
     nginx-trial: "true"  # Add nginx-trial annotation
   hosts:
-    - host: example.com
+    - host: payever.task.com
       paths:
         - path: /
           pathType: Prefix
