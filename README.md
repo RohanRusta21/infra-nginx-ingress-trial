@@ -26,6 +26,8 @@ helm create infra-nginx-ingress-trial
 
 ```
 
+## NOTE : Used a custom domain and resolve its dns with the hostmachine. Modified /etc/hosts file which includes the ip address and domain used in the task.
+
 
 Images of the Application Deployed (For Reference)
 
